@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tawfiqbhyry" alt="tawfiqbhyry" /></a> </p>
 
-- 🌱 I’m currently learning **laravel**
+- 🌱 I’m currently learning **nuxt**
 
 - 💬 Ask me about **JavaScript vue react-native tailwindcss**
 
