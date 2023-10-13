@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tawfiq</h1>
-<h3 align="center">A passionate front end developer specialized in vue js</h3>
+<h3 align="center">A passionate full stack  developer specialized in MEVN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tawfiqbhyry&label=Profile%20views&color=0e75b6&style=flat" alt="tawfiqbhyry" /> </p>
 
