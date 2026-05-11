@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I'm currently learning **Flutter**
 - 💬 Ask me about **JavaScript, Vue, React Native, and Tailwind CSS**
 - 📫 Reach me at **twfyqbhyry4@gmail.com**
 
@@ -26,7 +26,7 @@
 
 ### 🤝 Connect with Me
 
-<p align="left" style="display: flex;">
+<p align="left">
   <a href="https://www.linkedin.com/in/tawfik-behery-8a06a71a4/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
   </a>
@@ -187,6 +187,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### 📊 GitHub Stats
